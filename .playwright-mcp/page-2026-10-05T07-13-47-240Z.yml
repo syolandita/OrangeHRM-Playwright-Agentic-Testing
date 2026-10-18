@@ -1,0 +1,18 @@
+- generic [ref=f20e3]:
+  - generic [ref=f20e6]:
+    - heading "This site can’t be reached" [level=1] [ref=f20e7]
+    - paragraph [ref=f20e8]: The connection was reset.
+    - generic [ref=f20e9]:
+      - paragraph [ref=f20e10]: "Try:"
+      - list [ref=f20e11]:
+        - listitem [ref=f20e12]: Checking the connection
+        - listitem [ref=f20e13]:
+          - link "Checking the proxy and the firewall" [ref=f20e14] [cursor=pointer]:
+            - /url: "#buttons"
+        - listitem [ref=f20e15]:
+          - link "Running Windows Network Diagnostics" [ref=f20e16] [cursor=pointer]:
+            - /url: javascript:diagnoseErrors()
+    - generic [ref=f20e17]: ERR_CONNECTION_RESET
+  - generic [ref=f20e18]:
+    - button "Reload" [ref=f20e20] [cursor=pointer]
+    - button "Details" [ref=f20e21] [cursor=pointer]

@@ -1,0 +1,2 @@
+[  120119ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/users?limit=50&offset=0&username=Admin&sortField=u.userName&sortOrder=ASC:0
+[  121594ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login:0

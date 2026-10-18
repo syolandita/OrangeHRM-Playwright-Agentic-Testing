@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13493","TC_Admin_001 | Admin menambahkan user dan menemukannya pada tabel","chrome","2026-10-07","passed","2026-10-07","Admin User Management","specs\e2e_admin_add_user.spec.js","",""
+"","8079","TC_Admin_002 | Admin mencari user yang baru ditambahkan","chrome","2026-10-07","passed","2026-10-07","Admin User Management","specs\e2e_admin_add_user.spec.js","",""
