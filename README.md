@@ -1,8 +1,8 @@
-Playwright Automation Testing
+# Playwright Automation Testing with MCP Agent and reporting using Allure
 
 Automated testing project using Playwright, Allure Report, and AI Agent to simplify test creation and execution.
 
-Tech Stack
+## Tech Stack
 Playwright
 Allure Report
 AI Agent & Playwright MCP
@@ -13,25 +13,24 @@ pages/ — Page Object Model
 skills/gherkin-to-playwright/ — AI Agent skill
 allure-results/ — Test results
 allure-report/ — HTML test report
-Getting Started
 
-Install dependencies:
+## Install dependencies:
 
 npm install
 npx playwright install
 
 
-Run tests:
+## Run tests:
 
 npx playwright test
 
 
-Generate Allure Report:
+## Generate Allure Report:
 
 allure generate allure-results --clean -o allure-report
 allure open allure-report
 
-Workflow
+## Workflow
 Create test scenarios.
 Generate test scripts using AI Agent.
 Execute tests with Playwright.
